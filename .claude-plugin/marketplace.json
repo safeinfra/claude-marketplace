@@ -29,6 +29,11 @@
       "name": "slash-alias",
       "source": { "source": "github", "repo": "aqaurius6666/claude-slash-alias" },
       "description": "Expand short slash aliases to the original command in the prompt box with Tab."
+    },
+    {
+      "name": "shell-prettier",
+      "source": { "source": "github", "repo": "aqaurius6666/claude-shell-prettier" },
+      "description": "Pretty-print the shell commands Claude runs."
     }
   ]
 }
