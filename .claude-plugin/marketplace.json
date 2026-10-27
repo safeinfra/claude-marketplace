@@ -33,7 +33,7 @@
     {
       "name": "shell-prettier",
       "source": { "source": "github", "repo": "aqaurius6666/claude-shell-prettier" },
-      "description": "Pretty-print the shell commands Claude runs."
+      "description": "Pane showing the Bash command waiting for approval, one command per line."
     }
   ]
 }
