@@ -34,6 +34,11 @@
       "name": "shell-prettier",
       "source": { "source": "github", "repo": "aqaurius6666/claude-shell-prettier" },
       "description": "Pane showing the Bash command waiting for approval, one command per line."
+    },
+    {
+      "name": "who-approved",
+      "source": { "source": "github", "repo": "aqaurius6666/claude-who-approved" },
+      "description": "Logs who approved each tool call (a hook, a settings rule, the auto-mode classifier, or a person) to a local JSONL file. Log only: never changes the decision."
     }
   ]
 }

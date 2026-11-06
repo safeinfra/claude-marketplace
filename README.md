@@ -10,6 +10,7 @@ Claude Code plugin marketplace. Each plugin lives in its own repo; this repo onl
 | `blast-radius` | [aqaurius6666/claude-blast-radius](https://github.com/aqaurius6666/claude-blast-radius) |
 | `slash-alias` | [aqaurius6666/claude-slash-alias](https://github.com/aqaurius6666/claude-slash-alias) |
 | `shell-prettier` | [aqaurius6666/claude-shell-prettier](https://github.com/aqaurius6666/claude-shell-prettier) |
+| `who-approved` | [aqaurius6666/claude-who-approved](https://github.com/aqaurius6666/claude-who-approved) |
 
 Each plugin repo also keeps its own single-plugin marketplace; this repo is the aggregate.
 
